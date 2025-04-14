@@ -1,3 +1,6 @@
+__pycache__/
+*/__pycache__/
+
 figures/
 test_data/
 saved_models/
